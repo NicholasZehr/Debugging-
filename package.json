@@ -1,0 +1,17 @@
+{
+  "name": "debugging-the-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Nicholas Zehr",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
